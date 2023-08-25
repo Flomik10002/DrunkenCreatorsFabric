@@ -3,15 +3,17 @@
   "id": "drunkencreators",
   "version": "${version}",
   "name": "Drunken Creators",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Making automation between Brewin' And Chewin' and Create",
   "authors": [
-    "Me!"
+    "Flomik"
   ],
   "contact": {
-    "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
+    "homepage": "https://github.com/Flomik10002/DrunkenCreatorsFabric",
+    "sources": "https://github.com/Flomik10002/DrunkenCreatorsFabric",
+    "issues": "https://github.com/Flomik10002/DrunkenCreatorsFabric/issues"
   },
   "license": "CC0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/drunkencreators/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
