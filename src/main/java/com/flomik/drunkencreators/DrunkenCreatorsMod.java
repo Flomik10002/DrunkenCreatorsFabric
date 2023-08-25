@@ -1,6 +1,5 @@
 package com.flomik.drunkencreators;
 
-import com.simibubi.create.AllItems;
 import com.simibubi.create.Create;
 
 import io.github.fabricators_of_create.porting_lib.util.EnvExecutor;
